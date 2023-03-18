@@ -1,1 +1,0 @@
-avg(${adaptertype=HorizonAdapter, objecttype=VDIPool, metric=capacity|connected, depth=5})
